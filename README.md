@@ -1,2 +1,2 @@
 # weather-app
-Simple and clean weather web application
+Simple and clean weather ios application
